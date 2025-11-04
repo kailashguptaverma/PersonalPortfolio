@@ -15,16 +15,14 @@
 
   
   
-    <title>Rover Team: Worm-Gear End-Effector &middot; Kailash Gupta-Verma</title>
-    <meta name="title" content="Rover Team: Worm-Gear End-Effector &middot; Kailash Gupta-Verma">
+    <title>Mars Rover Robotics: End Effector Design &middot; Kailash Gupta-Verma</title>
+    <meta name="title" content="Mars Rover Robotics: End Effector Design &middot; Kailash Gupta-Verma">
   
 
   
   
-    <meta name="description" content="High-torque, backdrivable claw for sample collection on rough terrain.">
+    <meta name="description" content="Designing a durable, high-torque claw for the WashU Mars Rover Team’s 2024–25 University Rover Challenge entry">
   
-  
-    <meta name="keywords" content="worm gear,servo,compliance,PLA/CF,">
   
   
   
@@ -58,24 +56,20 @@
   
   <meta property="og:url" content="http://localhost:1313/PersonalPortfolio/projects/rover-claw/">
   <meta property="og:site_name" content="Kailash Gupta-Verma">
-  <meta property="og:title" content="Rover Team: Worm-Gear End-Effector">
-  <meta property="og:description" content="High-torque, backdrivable claw for sample collection on rough terrain.">
+  <meta property="og:title" content="Mars Rover Robotics: End Effector Design">
+  <meta property="og:description" content="Designing a durable, high-torque claw for the WashU Mars Rover Team’s 2024–25 University Rover Challenge entry">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="projects">
-    <meta property="article:published_time" content="2024-12-02T00:00:00+00:00">
-    <meta property="article:modified_time" content="2024-12-02T00:00:00+00:00">
-    <meta property="article:tag" content="Worm Gear">
-    <meta property="article:tag" content="Servo">
-    <meta property="article:tag" content="Compliance">
-    <meta property="article:tag" content="PLA/CF">
+    <meta property="article:published_time" content="2025-11-01T00:00:00+00:00">
+    <meta property="article:modified_time" content="2025-11-01T00:00:00+00:00">
     <meta property="og:image" content="http://localhost:1313/PersonalPortfolio/projects/rover-claw/cover.jpg">
 
   
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="http://localhost:1313/PersonalPortfolio/projects/rover-claw/cover.jpg">
-  <meta name="twitter:title" content="Rover Team: Worm-Gear End-Effector">
-  <meta name="twitter:description" content="High-torque, backdrivable claw for sample collection on rough terrain.">
+  <meta name="twitter:title" content="Mars Rover Robotics: End Effector Design">
+  <meta name="twitter:description" content="Designing a durable, high-torque claw for the WashU Mars Rover Team’s 2024–25 University Rover Challenge entry">
 
   
   
@@ -216,26 +210,26 @@
     "@context": "https://schema.org",
     "@type": "Article",
     "articleSection": "Projects",
-    "name": "Rover Team: Worm-Gear End-Effector",
-    "headline": "Rover Team: Worm-Gear End-Effector",
+    "name": "Mars Rover Robotics: End Effector Design",
+    "headline": "Mars Rover Robotics: End Effector Design",
     
-    "abstract": "High-torque, backdrivable claw for sample collection on rough terrain.",
+    "abstract": "Designing a durable, high-torque claw for the WashU Mars Rover Team’s 2024–25 University Rover Challenge entry",
     "inLanguage": "en",
     "url" : "http:\/\/localhost:1313\/PersonalPortfolio\/projects\/rover-claw\/",
     "author" : {
       "@type": "Person",
       "name": "Kailash Gupta-Verma"
     },
-    "copyrightYear": "2024",
-    "dateCreated": "2024-12-02T00:00:00\u002b00:00",
-    "datePublished": "2024-12-02T00:00:00\u002b00:00",
+    "copyrightYear": "2025",
+    "dateCreated": "2025-11-01T00:00:00\u002b00:00",
+    "datePublished": "2025-11-01T00:00:00\u002b00:00",
     
-    "dateModified": "2024-12-02T00:00:00\u002b00:00",
+    "dateModified": "2025-11-01T00:00:00\u002b00:00",
     
-    "keywords": ["worm gear","servo","compliance","PLA/CF"],
+    
     
     "mainEntityOfPage": "true",
-    "wordCount": "27"
+    "wordCount": "525"
   }]
   </script>
 
@@ -484,7 +478,7 @@
     <header id="single_header" class="mt-5 max-w-prose">
       
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        Rover Team: Worm-Gear End-Effector
+        Mars Rover Robotics: End Effector Design
       </h1>
       <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
         
@@ -665,7 +659,76 @@
         
 
         <div class="article-content max-w-prose mb-20">
-          <p>Compact <strong>worm-gear drive</strong> with <strong>compliant fingertips</strong> for irregular objects. Designed to avoid backdrive while keeping <strong>serviceability</strong> high. Early revs 3D‑printed in <strong>PLA/CF</strong>, then moved to <strong>machined aluminum</strong>.</p>
+          
+<h3 class="relative group">Background
+    <div id="background" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#background" aria-label="Anchor">#</a>
+    </span>
+    
+</h3>
+<p>The WashU Mars Rover Team competes annually in the University Rover Challenge (URC) — an international competition pushing students to design rovers capable of traversing rough, Mars-like terrain and performing complex tasks like sample collection and equipment handling.<br>
+At the heart of those missions lies the arm subsystem, the part of the robot responsible for interacting with game elements. For the 2024–25 season, I led the design of a worm-gear-driven mechanical claw optimized for strength, precision, and manufacturability that integrated into our very own 5 DOF arm. For the current 2025-2026 season, I&rsquo;m an arm design lead and I&rsquo;m currently leading a subteam of 8 members with the united goal of producing a highly functional 5 DOF robotic arm.</p>
+<hr>
+
+<h3 class="relative group">Design
+    <div id="design" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#design" aria-label="Anchor">#</a>
+    </span>
+    
+</h3>
+<p>The claw was born in SolidWorks, evolving from napkin sketches into a three-pound end-effector printed in PLA and powered by a high-torque hobby servo. Its defining feature is a worm gear drive — a compact system that converts rotary motion into the claw&rsquo;s distinct self-locking grasp. Each claw finger is mounted on shafted bearings for low-friction motion, with rubber pads added to increase grip on irregular objects. A mounted camera provides visual feedback for target detection, alignment, and optimized control.</p>
+<p>We needed something strong enough to lift 2–3 lb payloads, precise enough to handle sample tubes, and light enough to stay within our arm torque budget. To achieve that, I tuned gear ratios to triple output torque while keeping total rotation under 90°, ensuring predictable, stable motion during pickup tasks.</p>
+<hr>
+
+<h3 class="relative group">Prototyping &amp; Testing
+    <div id="prototyping--testing" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#prototyping--testing" aria-label="Anchor">#</a>
+    </span>
+    
+</h3>
+<p>The first prototype was completed in December 2024 after just six weeks of CAD modeling, vendor ordering, and 3D printing. Testing showed strong compliance under load, with grasping torque exceeding 0.6 N·m and repeatable control via Arduino-based servo commands. With the worm gear only transmitting torque in one direction, it confirmed the claws non-backdrivability — meaning it could hold objects even when powered off.</p>
+<p>By January 2025, a second-generation revision with optimized structural components, formalized shafts with snapper ring grooves, new bearing retainment plates, and an entirely redesigned claw finger led to much improved performance.</p>
+<hr>
+
+<h3 class="relative group">Lessons &amp; Next Steps
+    <div id="lessons--next-steps" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#lessons--next-steps" aria-label="Anchor">#</a>
+    </span>
+    
+</h3>
+<p>Through this build, I learned a ton of things.</p>
+<p>One key learning was working on a team with a relatively low budget. Sometimes, it was difficult to afford components and I had to work and adapt to the components the team already had in supply. That meant being incredibly flexible and prototyping a lot with the options available. This also confirmed how seemingly small design choices — gear alignment, wall thickness, and print orientation — directly impact torque transmission and durability.<br>
+Looking forward to this upcoming year, the current claw under construction will:</p>
+<ul>
+<li>Reduce mass by ~25% using lighter materials and reducing motor sizing to generate more RPM (and less torque)</li>
+<li>Explore more compliant finger geometries for adaptive grasping.</li>
+<li>Integrate a modular quick-mount for easier servicing</li>
+</ul>
+<hr>
+
+<h3 class="relative group">Reflection
+    <div id="reflection" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#reflection" aria-label="Anchor">#</a>
+    </span>
+    
+</h3>
+<p>Designing the claw taught me how to balance mechanical simplicity with functional reliability.<br>
+It’s a system that translates pure geometry and physics into controlled, purposeful movement — something that captures exactly what drew me to robotics in the first place.</p>
 
           
           
@@ -712,24 +775,15 @@
           
             <a
               class="flex text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
-              href="/PersonalPortfolio/projects/laterator-frc2023/">
+              href="/PersonalPortfolio/projects/meshalyzer/">
               <span class="leading-6">
-                <span class="inline-block rtl:rotate-180">&larr;</span>&ensp;FRC Design Challenge: The Laterator
+                <span class="inline-block rtl:rotate-180">&larr;</span>&ensp;MeshAlyzer: Dynamic Hernia Mesh Testing Platform
               </span>
             </a>
             
           
         </span>
         <span class="flex flex-col items-end">
-          
-            <a
-              class="flex text-right text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
-              href="/PersonalPortfolio/projects/arduino-car/">
-              <span class="leading-6">
-                Arduino Car: Autonomous Navigation&ensp;<span class="inline-block rtl:rotate-180">&rarr;</span>
-              </span>
-            </a>
-            
           
         </span>
       </div>

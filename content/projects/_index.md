@@ -7,4 +7,4 @@ cascade:
   showTableOfContents: false
 ---
 
-Below are a few representative builds and research projects. More on GitHub.
+Below are a few of the projects I've worked on complete with descriptions & pictures

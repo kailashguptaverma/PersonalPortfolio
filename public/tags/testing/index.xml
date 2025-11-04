@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on Kailash Gupta-Verma</title>
+    <link>http://localhost:1313/PersonalPortfolio/tags/testing/</link>
+    <description>Recent content in Testing on Kailash Gupta-Verma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>g.kailash@wustl.edu (Kailash Gupta-Verma)</managingEditor>
+    <webMaster>g.kailash@wustl.edu (Kailash Gupta-Verma)</webMaster>
+    <copyright>© 2025 Kailash Gupta-Verma</copyright>
+    <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/PersonalPortfolio/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fulfil Solutions: Tote Clip Compliance</title>
+      <link>http://localhost:1313/PersonalPortfolio/projects/compliance-mechanism/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <author>g.kailash@wustl.edu (Kailash Gupta-Verma)</author>
+      <guid>http://localhost:1313/PersonalPortfolio/projects/compliance-mechanism/</guid>
+      <description>Improving bag retention reliability in automated grocery systems through compliant spring design and tolerance optimization.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PersonalPortfolio/projects/compliance-mechanism/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>
