@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kailash Gupta-Verma</title>
+    <link>http://localhost:1313/PersonalPortfolio/projects/</link>
+    <description>Recent content in Projects on Kailash Gupta-Verma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>g.kailash@wustl.edu (Kailash Gupta-Verma)</managingEditor>
+    <webMaster>g.kailash@wustl.edu (Kailash Gupta-Verma)</webMaster>
+    <copyright>© 2025 Kailash Gupta-Verma</copyright>
+    <lastBuildDate>Tue, 19 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/PersonalPortfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fulfil Solutions: Compliance Mechanism</title>
+      <link>http://localhost:1313/PersonalPortfolio/projects/compliance-mechanism/</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <author>g.kailash@wustl.edu (Kailash Gupta-Verma)</author>
+      <guid>http://localhost:1313/PersonalPortfolio/projects/compliance-mechanism/</guid>
+      <description>Designed a highly analyzed, intricate compliance mechanisms to tension bags in robots</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PersonalPortfolio/projects/compliance-mechanism/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>MeshAlyzer: Hernia Mesh Testing Platform</title>
+      <link>http://localhost:1313/PersonalPortfolio/projects/meshalyzer/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <author>g.kailash@wustl.edu (Kailash Gupta-Verma)</author>
+      <guid>http://localhost:1313/PersonalPortfolio/projects/meshalyzer/</guid>
+      <description>Mechanical test rig + UI for WashU Musculoskeletal Soft Tissue Lab (STL)</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PersonalPortfolio/projects/meshalyzer/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Arduino Car: Autonomous Navigation</title>
+      <link>http://localhost:1313/PersonalPortfolio/projects/arduino-car/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <author>g.kailash@wustl.edu (Kailash Gupta-Verma)</author>
+      <guid>http://localhost:1313/PersonalPortfolio/projects/arduino-car/</guid>
+      <description>Worked to build an autonomous, self-driving Arduino car</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PersonalPortfolio/projects/arduino-car/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>Rover Team: Worm-Gear End-Effector</title>
+      <link>http://localhost:1313/PersonalPortfolio/projects/rover-claw/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <author>g.kailash@wustl.edu (Kailash Gupta-Verma)</author>
+      <guid>http://localhost:1313/PersonalPortfolio/projects/rover-claw/</guid>
+      <description>High-torque, backdrivable claw for sample collection on rough terrain.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PersonalPortfolio/projects/rover-claw/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>FRC Design Challenge: The Laterator</title>
+      <link>http://localhost:1313/PersonalPortfolio/projects/laterator-frc2023/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <author>g.kailash@wustl.edu (Kailash Gupta-Verma)</author>
+      <guid>http://localhost:1313/PersonalPortfolio/projects/laterator-frc2023/</guid>
+      <description>Entire design cycle of a horizontal elevator scoring mechanism for FRC robotics</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PersonalPortfolio/projects/laterator-frc2023/cover.jpg" />
+    </item>
+    
+    <item>
+      <title>FRC Team 254 2022: World Champions</title>
+      <link>http://localhost:1313/PersonalPortfolio/projects/frc-world-champs/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <author>g.kailash@wustl.edu (Kailash Gupta-Verma)</author>
+      <guid>http://localhost:1313/PersonalPortfolio/projects/frc-world-champs/</guid>
+      <description>The story of winning the 2022 world championship as a part of Team 254</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PersonalPortfolio/projects/frc-world-champs/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>

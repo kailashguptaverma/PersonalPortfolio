@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biomechanics on Kailash Gupta-Verma</title>
+    <link>http://localhost:1313/PersonalPortfolio/categories/biomechanics/</link>
+    <description>Recent content in Biomechanics on Kailash Gupta-Verma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>g.kailash@wustl.edu (Kailash Gupta-Verma)</managingEditor>
+    <webMaster>g.kailash@wustl.edu (Kailash Gupta-Verma)</webMaster>
+    <copyright>© 2025 Kailash Gupta-Verma</copyright>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/PersonalPortfolio/categories/biomechanics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>MeshAlyzer: Hernia Mesh Testing Platform</title>
+      <link>http://localhost:1313/PersonalPortfolio/projects/meshalyzer/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <author>g.kailash@wustl.edu (Kailash Gupta-Verma)</author>
+      <guid>http://localhost:1313/PersonalPortfolio/projects/meshalyzer/</guid>
+      <description>Custom mechanical test rig + UI for surgical mesh characterization (collab with WashU MUSCUL Lab).</description>
+      
+    </item>
+    
+  </channel>
+</rss>

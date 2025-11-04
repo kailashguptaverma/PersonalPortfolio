@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Team on Kailash Gupta-Verma</title>
+    <link>http://localhost:1313/PersonalPortfolio/categories/student-team/</link>
+    <description>Recent content in Student Team on Kailash Gupta-Verma</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>g.kailash@wustl.edu (Kailash Gupta-Verma)</managingEditor>
+    <webMaster>g.kailash@wustl.edu (Kailash Gupta-Verma)</webMaster>
+    <copyright>© 2025 Kailash Gupta-Verma</copyright>
+    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/PersonalPortfolio/categories/student-team/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rover Team: Worm-Gear End-Effector</title>
+      <link>http://localhost:1313/PersonalPortfolio/projects/rover-claw/</link>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+      <author>g.kailash@wustl.edu (Kailash Gupta-Verma)</author>
+      <guid>http://localhost:1313/PersonalPortfolio/projects/rover-claw/</guid>
+      <description>High-torque, backdrivable claw for sample collection on rough terrain.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PersonalPortfolio/projects/rover-claw/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>
