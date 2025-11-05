@@ -3,92 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/PersonalPortfolio/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/PersonalPortfolio/projects/rover-claw/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/PersonalPortfolio/projects/</loc>
+    <lastmod>2025-11-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/PersonalPortfolio/projects/meshalyzer/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/PersonalPortfolio/projects/compliance-mechanism/</loc>
     <lastmod>2025-08-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/PersonalPortfolio/</loc>
-    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/PersonalPortfolio/projects/</loc>
-    <lastmod>2025-08-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/PersonalPortfolio/projects/meshalyzer/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/PersonalPortfolio/projects/arduino-car/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/PersonalPortfolio/categories/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/PersonalPortfolio/tags/compliance/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/PersonalPortfolio/categories/internship/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/PersonalPortfolio/tags/pla/cf/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/PersonalPortfolio/categories/robotics/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/PersonalPortfolio/tags/servo/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/PersonalPortfolio/tags/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/PersonalPortfolio/tags/worm-gear/</loc>
-    <lastmod>2024-12-15T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/PersonalPortfolio/projects/rover-claw/</loc>
-    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/PersonalPortfolio/categories/student-team/</loc>
-    <lastmod>2024-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -99,8 +57,44 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/PersonalPortfolio/categories/internship/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/PersonalPortfolio/tags/pla/cf/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/PersonalPortfolio/categories/robotics/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/PersonalPortfolio/tags/servo/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/PersonalPortfolio/tags/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/PersonalPortfolio/tags/worm-gear/</loc>
+    <lastmod>2023-05-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/PersonalPortfolio/projects/frc-world-champs/</loc>
-    <lastmod>2022-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

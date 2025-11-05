@@ -52,22 +52,12 @@
     </item>
     
     <item>
-      <title>FRC Design Challenge: The Laterator</title>
-      <link>http://localhost:1313/PersonalPortfolio/projects/laterator-frc2023/</link>
-      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
-      <author>g.kailash@wustl.edu (Kailash Gupta-Verma)</author>
-      <guid>http://localhost:1313/PersonalPortfolio/projects/laterator-frc2023/</guid>
-      <description>Entire design cycle of a horizontal elevator scoring mechanism for FRC robotics</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PersonalPortfolio/projects/laterator-frc2023/cover.jpg" />
-    </item>
-    
-    <item>
-      <title>FRC Team 254 2022: World Champions</title>
+      <title>FRC World Championships — 2022 &amp; 2023</title>
       <link>http://localhost:1313/PersonalPortfolio/projects/frc-world-champs/</link>
-      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
       <author>g.kailash@wustl.edu (Kailash Gupta-Verma)</author>
       <guid>http://localhost:1313/PersonalPortfolio/projects/frc-world-champs/</guid>
-      <description>The story of winning the 2022 world championship as a part of Team 254</description>
+      <description>Two years of championship-level design, wiring, and mechanical innovation with Team 254 — from Sideways to Breakdown.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/PersonalPortfolio/projects/frc-world-champs/cover.jpg" />
     </item>
     
